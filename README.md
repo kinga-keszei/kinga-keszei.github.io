@@ -1,2 +1,2 @@
 # kinga-keszei.github.io
-portfólió oldalak
+portfólió oldal
