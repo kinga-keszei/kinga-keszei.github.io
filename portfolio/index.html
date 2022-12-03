@@ -4,23 +4,85 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adatok</title>
+    <title>Keszei Kinga</title>
 </head>
 <body>
-    <h1>Önéletrajz</h1>
-
-    <h2>Személyes adatok</h2>
-    <p>Név: Keszei Kinga</p>
-    <p>Lakhely: Győr</p>
-    <p>Végzettség: gyógypedagógus</p>
-    <p>Elérhetőség: kinga.keszei95@gmail.com</p>
-
-    <h2>Egyéb ismeretek</h2>
-    <p>Jogosítvány</p>
-    <p>Microsoft Office ismeretek</p>
-
-    <h2>Hobbik</h2>
-    <p>cicanevelés, társasjáték</p>
+    <header id="fooldal">
+        <h1>Keszei Kinga - junior frontend fejlesztő</h1>
+        <nav>
+            <ul>
+                <li><a href="#fooldal">Főoldal</a></li>
+                <li><a href="#bemutatkozas">Bemutatkozás</a></li>
+                <li><a href="#szakmaiism">Szakmai ismeretek</a></li>
+                <li><a href="#projektek">Projektjeim</a></li>
+                <li><a href="#kapcsolat">Kapcsolat</a></li>
+            </ul>
+        </nav>  
+    </header>
+    <main>
+        <article id="bemutatkozas">
+            <h2>Bemutatkozás</h2>
+            <p>Keszei Kinga vagyok, junior frontend fejlesztő. 2020-ban kezdtem el hobbi szinten webfejlesztéssel foglalkozni, majd
+                úgy határoztam, hogy a karrieremet is ezen a pályán folytatom. 2022-ben jelentkeztem a Programozás Karrier képzésére,
+                ahol az alapoktól tanultam meg a webfejlesztéssel kapcsolatos legfontosabb ismereteket. Munkám során szeretek kreatív, 
+                ám letisztult megoldásokat alkalmazni. A weboldalak készítése mellett szívesen foglalkozok webes játékkészítéssel és 
+                művészi jellegű tartalmak létrehozásával is. 
+            </p>
+        </article>
+        <article id="szakmaiism">
+            <h2>Szakmai ismeretek</h2>
+            <ul>
+                <li>HTML, CSS, SASS</li>
+                <li>Bootstrap</li>
+                <li>Wordpress</li>
+                <li>JavaScript, React</li>
+                <li>Python, Django, SQL</li>
+            </ul>
+        </article>
+        <article id="projektek">
+            <h2>Projektjeim</h2>
+            <ul>
+                <li>projekt1</li>
+                <li>projekt2</li>
+                <li>projekt3</li>
+                <li>projekt4</li>
+                <li>projekt5</li>
+            </ul>
+        </article>
+        <article id="kapcsolat">
+            <h2>Kapcsolat</h2>
+            <form action="https://formspree.io/f/mjvzdydn" method="POST">
+                <section>
+                    <label> Név:
+                        <input type="text" name="nev">
+                    </label>
+                </section>
+                <section>
+                    <label>
+                        E-mail:
+                        <input type="email" name="email">
+                    </label>
+                </section>
+                <section>
+                    <label>
+                        Üzenet:
+                        <textarea name="uzenet" cols="30" rows="10"></textarea>
+                    </label>
+                </section>
+                <section>
+                    <input type="submit" name="kuldes" value="Küldés">
+                </section>
+                <section>
+                    <a href="https://github.com/kinga-keszei" target="_blank">
+                        <img src="./images/GitHub-Mark-32px.png" alt="github-logo">
+                    </a>
+                </section>
+            </form>
+        </article>
+    </main>
+    <footer>
+        <p>2022 &copy; Minden jog fenntartva.</p>
+    </footer>
     
 </body>
 </html>
