@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="1024"
+   viewBox="0 0 204.8 204.8"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="bal_felso_atmenet.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2086">
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1;"
+         offset="0"
+         id="stop2082" />
+      <stop
+         style="stop-color:#ff6eff;stop-opacity:1;"
+         offset="0.60000002"
+         id="stop2084" />
+    </linearGradient>
+    <rect
+       x="-312.03589"
+       y="382.24396"
+       width="1776.6543"
+       height="834.69598"
+       id="rect236" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2086"
+       id="linearGradient2088"
+       x1="-312.62183"
+       y1="778.51202"
+       x2="1446.9507"
+       y2="778.51202"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Réteg 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.14142136,-0.14142136,0.14142136,0.14142136,-128.33827,3.4675247)"
+       id="text234"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Pacifico;-inkscape-font-specification:Pacifico;white-space:pre;shape-inside:url(#rect236);fill:url(#linearGradient2088);fill-opacity:1;stroke-width:0.377953;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5"><tspan
+         x="-312.03516"
+         y="428.48557"
+         id="tspan3009">&lt;section id=&quot;home&quot;&gt; &lt;div class=&quot;home-text&quot;&gt; &lt;h1&gt;&lt;span class=&quot;say-</tspan><tspan
+         x="-312.03516"
+         y="495.1522"
+         id="tspan3011">hello&quot;&gt;Hi!&lt;/span&gt; I am &lt;span class=&quot;my-name&quot;&gt;Kinga,&lt;/span&gt;&lt;/h1&gt; &lt;h2 </tspan><tspan
+         x="-312.03516"
+         y="561.81882"
+         id="tspan3013">class=&quot;profession&quot;&gt;a frontend developer&lt;/h2&gt; &lt;/div&gt; &lt;button </tspan><tspan
+         x="-312.03516"
+         y="628.48545"
+         id="tspan3017"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00011444092"
+           id="tspan3015">class=&quot;contact-button&quot; href=&quot;#contact&quot;&gt; &lt;a href=&quot;#contact&quot;&gt;Contact me!</tspan></tspan><tspan
+         x="-312.03516"
+         y="695.15207"
+         id="tspan3019">&lt;/a&gt; &lt;/button&gt; &lt;/section&gt; &lt;section id=&quot;about&quot;&gt; &lt;h2 class=&quot;title&quot;&gt;About </tspan><tspan
+         x="-312.03516"
+         y="761.8187"
+         id="tspan3023"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00010681152"
+           id="tspan3021">me&lt;/h2&gt; &lt;div class=&quot;about-container&quot;&gt; &lt;div class=&quot;about-me&quot;&gt; &lt;img </tspan></tspan><tspan
+         x="-312.03516"
+         y="828.48533"
+         id="tspan3027"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010967255"
+           id="tspan3025">src=&quot;assets/kingakeszei.png&quot; alt=&quot;picture-about-me&quot; class=&quot;about-picture&quot;&gt; </tspan></tspan><tspan
+         x="-312.03516"
+         y="895.15195"
+         id="tspan3031"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00011348724 0.00010681152"
+           id="tspan3029">&lt;div class=&quot;about-container-intro&quot;&gt; &lt;h3&gt;Hello, my name is Kinga Keszei&lt;/</tspan></tspan><tspan
+         x="-312.03516"
+         y="961.81858"
+         id="tspan3033">h3&gt; &lt;section id=&quot;home&quot;&gt; &lt;div class=&quot;home-text&quot;&gt; &lt;h1&gt;&lt;span class=&quot;say-</tspan><tspan
+         x="-312.03516"
+         y="1028.4852"
+         id="tspan3035">hello&quot;&gt;Hi!&lt;/span&gt; I am &lt;span class=&quot;my-name&quot;&gt;Kinga,&lt;/span&gt;&lt;/h1&gt; &lt;h2 </tspan><tspan
+         x="-312.03516"
+         y="1095.1518"
+         id="tspan3037">class=&quot;profession&quot;&gt;a frontend developer&lt;/h2&gt; &lt;/div&gt; &lt;button </tspan><tspan
+         x="-312.03516"
+         y="1161.8185"
+         id="tspan3041"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00011444092"
+           id="tspan3039">class=&quot;contact-button&quot; href=&quot;#contact&quot;&gt; &lt;a href=&quot;#contact&quot;&gt;Contact me!</tspan></tspan></text>
+  </g>
+</svg>
