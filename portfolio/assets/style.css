@@ -261,7 +261,7 @@ header{
     width: 45vw;
     max-width: 23rem;
     opacity: 0.4;
-    
+    pointer-events: none;
 }
 
 .home-code-pattern1{
