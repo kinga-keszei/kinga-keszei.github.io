@@ -5,6 +5,7 @@
     --turquoise: rgb(76, 245, 223);
     --white: #DFE3E7;
     --roboto: 'Roboto', sans-serif;
+    --righteous: 'Righteous', arial;
     
 }
 
@@ -33,7 +34,7 @@ body{
 
 header{
     width: 100vw;
-    height: 60px;
+    height: 4rem;
     background-color: var(--darkgray);
     position: fixed;
     display: flex;
@@ -61,23 +62,23 @@ header{
     align-items: center;
     cursor: pointer;
     margin-right: 0.3rem;
-    width: 70px;
-    height: 40px;
+    width: 4.5rem;
+    height: 2.5rem;
 }
 
 .nav-checkbox-line, 
 .nav-checkbox-line::before,
 .nav-checkbox-line::after{
     position: absolute;
-    width: 48px;
-    height: 5px;
+    width: 3rem;
+    height: 0.3rem;
     background-color: var(--turquoise);
     border-radius: 5px;
     transition: transform 0.2s;
 }
 
 .nav-checkbox-line{
-    top: 25px;
+    top: 1.7rem;
 }
 
 .nav-checkbox-line::before{
@@ -96,7 +97,7 @@ header{
     background-color: var(--darkgray);
     border-left: solid 1px #41ead47b;
     position: fixed;
-    top: 60px;
+    top: 4rem;
     width: 40vw;
     bottom: 0;
     display: flex;
@@ -204,7 +205,7 @@ header{
 
 
 .home-text{
-    font-family: 'Righteous', Arial;
+    font-family: var(--righteous);
     letter-spacing: 2px;
     font-size: 1.1rem;
     line-height: 220%;
@@ -265,7 +266,7 @@ header{
 }
 
 .home-code-pattern1{
-    top: 60px;
+    top: 4rem;
     left: 0;
 }
 
@@ -311,7 +312,7 @@ header{
     padding: 4rem 0 1rem;
     text-align: center;
     color: var(--turquoise);
-    font-family: 'Righteous', Arial;
+    font-family: var(--righteous);
     font-size: 2.5rem;
 }
 
@@ -329,7 +330,7 @@ header{
 }
 
 .about-me h3{
-    font-family: 'Righteous', Arial;
+    font-family: var(--righteous);
     letter-spacing: 1px;
     color: rgb(114, 218, 207);
     text-align: center;
@@ -346,7 +347,7 @@ header{
 .about-technologies{
     display: flex;
     flex-direction: column;
-    font-family: 'Righteous', Arial;
+    font-family: var(--righteous);
 }
 
 .about-picture{
@@ -354,7 +355,7 @@ header{
     margin: 2rem auto;
     border-radius: 5px;
     width: 90%;
-    max-width: 300px;
+    max-width: 18.75rem;
 }
 
 
@@ -367,7 +368,7 @@ header{
 .about-technologies-skills h3{
     text-align: center;
     font-size: 1.8rem; 
-    font-family: 'Righteous', Arial;
+    font-family: var(--righteous);
     color: rgb(114, 218, 207)
 }
 
@@ -430,7 +431,7 @@ header{
 
     .about-picture{
         margin: 0 4rem 0 0;
-        width: 275px;
+        width: 17.2rem;
         transform: rotate(-10deg);
         box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.441);
 
@@ -500,8 +501,8 @@ header{
     align-items: center;
     padding: 0 1rem;
     width: 100%;
-    height: 40px;
-    font-family: 'Righteous', Arial;
+    height: 2.5rem;
+    font-family: var(--righteous);
     color:var(--darkgray);
     letter-spacing: 1px;
     
@@ -559,7 +560,7 @@ header{
     text-align: center;
     line-height: 1.8;
     width: 100vw;
-    max-width: 600px;;
+    max-width: 37.5rem;
 }
 
 .contact-container{
@@ -573,7 +574,7 @@ header{
     margin: 0.4rem;
     padding: 0.5rem 1rem;
     width: 80vw;
-    max-width: 600px;
+    max-width: 37.5rem;
     font-family: var(--roboto);
     font-size: 1rem;
     border-radius: 5px;
@@ -600,7 +601,7 @@ header{
 
 .submit-button{
     background-color: var(--turquoise);
-    font-family: 'Righteous', Arial;
+    font-family: var(--righteous);
     font-size: 1.2rem;
     color: #212121;
     margin-top: 2rem;
@@ -647,7 +648,7 @@ header{
 
 footer{
     width: 100%;
-    height: 60px;
+    height: 4rem;
     background-color: var(--darkgray);
     padding: 1.2rem;
 }
